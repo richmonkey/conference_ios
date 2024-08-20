@@ -1,0 +1,24 @@
+PODS:
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - Toast (4.0.0)
+
+DEPENDENCIES:
+  - Masonry (~> 1.1.0)
+  - MBProgressHUD
+  - Toast
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - MBProgressHUD
+    - Toast
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+
+PODFILE CHECKSUM: 24e3fbee901dead8fdacbc10abd0f2982dbd9c0e
+
+COCOAPODS: 1.10.2
